@@ -1,0 +1,307 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Josephus redivivus: or, Innocencie  violated and vindicated. In a sermon preached on the publike day of Thanksgiving, in Wandsworth in Surey by the vicar there.  On Thursday May the 24th, 1660.</title>
+            <author>Roberts, Hugh, fl. 1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09887</idno>
+            <idno type="STC">Wing R1597AB</idno>
+            <idno type="STC">ESTC R233804</idno>
+            <idno type="EEBO-CITATION">69648866</idno>
+            <idno type="OCLC">ocm 69648866</idno>
+            <idno type="VID">185036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09887)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185036)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2884:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Josephus redivivus: or, Innocencie  violated and vindicated. In a sermon preached on the publike day of Thanksgiving, in Wandsworth in Surey by the vicar there.  On Thursday May the 24th, 1660.</title>
+                  <author>Roberts, Hugh, fl. 1660.</author>
+               </titleStmt>
+               <extent>[4], 16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Cottrel, for Humphrey Robinson, at the Three Pigeons in St. Paul's Church-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Hugh Roberts.  Cf. Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Peterborough Cathedral.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O. T. --  Genesis, 37, 8 --  Sermons.</term>
+               <term>Fasts and feasts --  England --  Early works to 1800.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-02</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:185036:1"/>
+               <pb facs="tcp:185036:1" rendition="simple:additions"/>
+Joſephus Redivivus: OR, INNOCENCIE Violated and Vindicated.</p>
+            <p>IN A SERMON PREACHED On the Publike Day of Thankſgiving, In <hi>Wandſworth</hi> in SURREY; By the Vicar there.</p>
+            <p>On Thurſday <hi>May</hi> the 24<hi rend="sup">th</hi>, 1660.</p>
+            <q>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>James Cottrel,</hi> for <hi>Humphry Robinſon,</hi> at the three Pige<g ref="char:EOLhyphen"/>ons in St. <hi>Paul</hi>'s Church-yard. 1660.</p>
+            <pb facs="tcp:185036:2" rendition="simple:additions"/>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:185036:2"/>
+            <head>The PREFACE.</head>
+            <p>THere needs no Key to unlock the ſence of theſe few leaves: let but our hearts be open in thank-fulneſs to God, for a mercy both miracu<g ref="char:EOLhyphen"/>lous and unexp<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cted; and ſuch as our Fathers never knew, to de<g ref="char:EOLhyphen"/>clare unto us.</p>
+            <p>It was joyful news which the Brethren brought to their aged Father, that <hi>Joſeph</hi> was alive, and ruled over all the land: They once ſcorned the mo<g ref="char:EOLhyphen"/>tion <note place="margin">
+                  <hi>Gen.</hi> 45. 26.</note> (as we may ſee by what follows) that <hi>Joſeph</hi> ſhould rule over them: Yet now they proclaim it, and ſenſible of the happineſs of it, they tell it with great gladneſs. Such a Triplicity of Change, could receive its motion from no lower Orb, then the high Hand of Divine Providence.</p>
+            <p>
+               <hi>Jacob</hi> ſate mourning, and would not be comforted, becauſe his <hi>Joſeph</hi> was not. The Brethren were ſnared in the ſetters which their own ambition had created; and could not tell whether impriſonment, famine, or what ſad<g ref="char:EOLhyphen"/>der judgement, ſhould cloſe the Tragoedy wherein themſelves had been the principal Actors. <hi>Joſeph</hi> is amongſt ſtrangers, where ſome entertain'd him; and, conquered by his Virtues, courted him, even in the midſt of his affliction. Yet there wanted not malice to have betray'd his life, or to have made him wretched, becauſe he would not be perſwaded to be wicked.</p>
+            <p>But in a ſudden revolution of Affairs, <hi>The ſpirit of Jacob their Fa<g ref="char:EOLhyphen"/>ther was revived.</hi> The Brethren's feared, and <hi>Deſerved Captivity,</hi> was (for the ſtrangeneſs of the Change, as to men in a Dream) turned into the poſſeſſion of an <hi>Aſſured Liberty. Joſeph</hi> ruled, who before was deſpiſed: <note place="margin">
+                  <hi>Gen.</hi> 45. <hi>Verſ.</hi> 7.</note> being ſent to <hi>preſerve a poſterity in the earth, and to ſave their lives by a great deliverance.</hi>
+            </p>
+            <p>Thus the former Object of their envie, becomes (under God) the onely ground of their ſecurity: They had been most miſerable, if <hi>Joſeph</hi> had not ruled o<g ref="char:EOLhyphen"/>ver them.</p>
+            <p>The firſt Act of this Pious Prince, appeared in his Duty to his Father; like a Religious King, who holds the common Concernments of the Common Parent, his Country, more regardfully then all his own particular Intereſts. And, as the chief means to preſerve his Country in ſafety, his Zeal is, to keep his Brethren in Unity: <hi>See that you fall not out by the way.</hi>
+            </p>
+            <p>The Jealouſie of Differences amongſt them, did ariſe from the Diverſity of their diſ-affection towards him: He was now ſafe, and they in a way to be happy, and have the chiefest advantage from his ſafety, if tbey did not ruine and undo all again, by falling out by the way.</p>
+            <p>Surely if <hi>Joſeph</hi> would forget, it were very impious for the offending Brethren to remember, foment, or inlarge former Differences.</p>
+            <p>What if <hi>Reuben</hi> ſuffered for the preſent, and was even diſtracted under
+<pb facs="tcp:185036:3"/>
+the bitterneſs of his Brethrens cruelty to their Innocent <hi>Joſeph?</hi>
+            </p>
+            <p>He and his more loyal party did ſuffer indeed, and that very deeply; which I ſuppoſe their very Perſecutors well not deny. Yet let the ſuffering party confeſs, That <hi>Joſeph</hi> ſuffered moſt: And (now he may revenge) he pleads Reconciliation firſt.</p>
+            <p>It were great pity that ſo pure a ſpirit ſhould be attempted to be poyſoned with the angry counſels of any diſcontented parties, who will not be ſatisfied, except they may be as <g ref="char:V">Ʋ</g>nchriſtian as their Adverſaries, whom they condemn to be <g ref="char:V">Ʋ</g>ncharitabl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Thou that judgeſt another, wilt thou fall into the ſame condemnation?</hi>
+            </p>
+            <p>Let Them <hi>talk</hi> up themſelves to be the Godly Party, let us <hi>act</hi> Godlineſs: they have cenſured the <hi>loyal Party,</hi> to be a <hi>looſe Party:</hi> GOD hath now put an Opportunity into our hands to ſilence their ſlanders, and convince them of raſh judgements. <hi>Forbearing one another, and forgiving one ano<g ref="char:EOLhyphen"/>ther: if any man have a quarrel againſt any, even as Chriſt forgave</hi> 
+               <note place="margin">
+                  <hi>Coloſ</hi> 3. 13. 1 <hi>Pet.</hi> 3. 16</note> 
+               <hi>you, ſo alſo do ye. By this means they which ſpeak evil of you, as of evil doers, may be aſhamed, that falſly accuſe your good converſation in Chriſt.</hi>
+            </p>
+            <p>But we have ſuffered, and found no mercy: 'Tis true, many have known ſorrow: neither ſhall I argue the ground of it with ſome men, who make moſt noiſe; leſt it ſhould appear to be the diſturbance of affected Intereſts, ra<g ref="char:EOLhyphen"/>ther then ſuffering with <hi>Joſeph,</hi> or for the Truth in its undefiled conſtitutions.</p>
+            <p>To theſe paſſionate Overturners, I would recommend the conſideration of that mixt Dialogue, <hi>Diſpeream ni ultus fuero: Diſpeream ni meli<g ref="char:EOLhyphen"/>us perſuaſero.</hi> The one would periſh, rather then not be revenged: The other was afraid that he ſhould periſh, if he did not diſcharge his Duty, by indeavouring to diſpoſſeſs him of ſo unclean a ſpirit.</p>
+            <p>My Prayer is, That <hi>God would preſerve our</hi> Joſeph, <hi>that the ſweet<g ref="char:EOLhyphen"/>neſs of his natural temper, ſo adorned and impowered with ſupernatu<g ref="char:EOLhyphen"/>ral Grace, may not be diſturbed with any violent impreſſion of diſcon<g ref="char:EOLhyphen"/>tented complaints; but that all may finde warmth and comfort from the Beams of that Majeſty which God hath graciouſly given once more to ſhine in this land: and that led by his moſt Chriſtian Example, we, moving in our inferiour Orbs and ſeveral places, may not continue in our ſtill angry diſtance one with another, but meet in the ſpirit of love and meekneſs.</hi>
+            </p>
+            <p>Let the joy that our <hi>Joſeph</hi> is yet alive, ſilence animoſities, unite us in thank-ful obedience unto God, loyalty to his Majeſty, and love one to ano<g ref="char:EOLhyphen"/>ther. So ſhall we honour God in the King, bleſs God for him, proſper under him: Let all loyal Subjects ſay,</p>
+            <closer>AMEN.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:185036:3"/>
+            <head>
+               <hi>Joſephus Redivivus:</hi> OR, Innocency violated and vindicated.</head>
+            <epigraph>
+               <bibl>Geneſis 37. 8.</bibl>
+               <q>His Brethren ſaid unto him, Shalt thou indeed reign over us? ſhalt thou indeed have do<g ref="char:EOLhyphen"/>minion over us?</q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">I</seg>F we conſider theſe words ſingly by themſelves, we may look up<g ref="char:EOLhyphen"/>on them as of acceptation and congratulation; wiſhing it might be ſo, yet in ſome doubt whether it would be ſo or no; <hi>Shalt thou indeed?</hi>
+            </p>
+            <p>Or of admiration, <hi>Shalt thou!</hi> who art but young, and as one ſingle perſon, come to that dignity to be King, and reign over us, who are older in years, and many in number, and will keep the rule in our own hands, in a Popular State and Community, rather then <hi>One</hi> reign over <hi>Many:</hi> how can this be, <hi>indeed,</hi> that <hi>Thou reign over us;</hi> Thou one, over us many?</p>
+            <p>But the Context will admit of neither of theſe
+<pb n="2" facs="tcp:185036:4"/>
+acceptations of the words, but render them in a far other ſenſe, <hi>viz.</hi> of ſcorn and deteſtation; <hi>Thou? what, Thou?</hi> whom we hate; and therefore hate, becauſe of the claim thou ſeemeſt to make of domi<g ref="char:EOLhyphen"/>nion over us, and that as if it were by the diſpoſing of Divine Providence. <hi>Thou indeed?</hi> no indeed, thou ſhalt not reign over us.</p>
+            <p>Like the unthankful ſubjects, <hi>Luk.</hi> 19. 14. <hi>But his Citizens hated him, and ſent a meſſenger after him, ſay<g ref="char:EOLhyphen"/>ing, We will not have this man to reign over us.</hi> Why would they not? <hi>verſ.</hi> 13. <hi>And he called his ten ſer<g ref="char:EOLhyphen"/>vants, and delivered them ten pounds, and ſaid unto them, Occupy till I come.</hi>
+            </p>
+            <p>By his noble bounty, they had got the poſſeſſion of the money, the ten pound was in their hands, which they were loath to part withal, and had ill improved. They were affraid of an account, and therefore <hi>Nolumus hunc,</hi> &amp;c. <hi>we will not have this man,</hi> &amp;c. Yea, 'tis ſaid, <hi>verſ.</hi> 12, 14. That when this their Lord was gone into a far Country, they took ad<g ref="char:EOLhyphen"/>vantage of that his abſence, and ſent a meſſage after him with this unthankful, undutiful vote and reſo<g ref="char:EOLhyphen"/>lution, to make him affraid of returning into his Country again, that they would no more admit him to any rule or reign over them.</p>
+            <p>Where alſo obſerve, That the cauſe they give for this refuſal (whatſoever otherwiſe might be the matter) was neither Law nor Reaſon, but their own will, condemning Royal Authority in ſuch a Court where Reaſon was not to be heard.</p>
+            <p>So in this Text, which is a Type of that grand Rebellion, even againſt Chriſt himſelf. <hi>Joſephs</hi> Bre<g ref="char:EOLhyphen"/>thren,
+<pb n="3" facs="tcp:185036:4"/>
+blinded with malice, and over-byaſt with ſelf-intereſt and reſpect, roſe up againſt <hi>Joſeph,</hi> even after they perceived that Gods pleaſure was to ad<g ref="char:EOLhyphen"/>vance him over them, they would not endure it; and therefore came with this Expoſtulation, or ra<g ref="char:EOLhyphen"/>ther Exprobation, <hi>Shalt thou indeed?</hi> ye know the ſtory, that they were thus incens'd by occaſion of a dream, by which in thoſe days God often revealed his will to men; or elſe this dream would have paſt by unregarded as a fable: but becauſe dreams were then of ſuch eſteem, this dream gave them to un<g ref="char:EOLhyphen"/>derſtand what Gods good pleaſure was concerning <hi>Joſeph:</hi> and yet ſo mad they were, that they oppoſed it, caſting this ſcorn upon him, before he came to his reign over them, <hi>Thou?</hi> what <hi>Thou indeed?</hi>
+            </p>
+            <p>Malice, Ambition and Covetouſneſs, do ſo far <note place="margin">Obſerv.</note> poſſeſs men with the ſpirit of Rebellion, that they will even act againſt their own Conſcience, and known will and determination of God himſelf.</p>
+            <p>I ſhall go no further then the Example in the Text, to confirm unto us this truth: <hi>Joſeph</hi> was to be advanced to dominion, his Brethren to be ſub<g ref="char:EOLhyphen"/>ject and bow unto him; this was revealed to be the will of God by a Dream: In thoſe dayes of great credit to manifeſt GOD's Will; his Bre<g ref="char:EOLhyphen"/>thren repine; and obſerve how they plot againſt it.</p>
+            <p>There were three ſeveral parties or factions ap<g ref="char:EOLhyphen"/>pearing in this buſineſs:</p>
+            <p>One was very cruel; root and branch, totally de<g ref="char:EOLhyphen"/>ſtroy him, kill him, and ſo out of fear of him.</p>
+            <p>The other were a little (though not much more
+<pb n="4" facs="tcp:185036:5"/>
+moderate) they were for baniſhment; ſell him into <hi>Egypt,</hi> into a far Country; let them be but rid of him, and they care not what becomes of him.</p>
+            <p>A third party there was (but a ſmall one) and prevailed not, which laboured by all means to pre<g ref="char:EOLhyphen"/>ſerve and deliver him out of their hands, that ſo he might be ſafe. Theſe were the three parties, and principal actors in this ſad intended Tragedy, if Gods Providence had not prevented.</p>
+            <p>Behold the firſt of theſe parties in <hi>verſes</hi> 19, 20. <hi>And they ſaid one to another, Behold, this Dreamer co<g ref="char:EOLhyphen"/>meth.</hi> Verſ. 20. <hi>Come now, therefore, and let us ſlay him, and caſt him into ſome pit, and we will ſay, Some evil beaſt hath devoured him: and we will ſee what will become of his dreams.</hi>
+            </p>
+            <p>Who cometh? their brother by nature, but by Gods Providence ordered to be their Ruler. Where<g ref="char:EOLhyphen"/>fore comes he? to viſit them, and ſee whether they were well, <hi>verſ.</hi> 14. From whence came he? from his and their Father, who loved him more then all his Children, and ſent him unto them, <hi>verſ.</hi> 13. He received kindneſs from a ſtranger; when he was in a ſolitary, and even loſt condition, a certain man found him wandring in the fields, <hi>verſ.</hi> 15. but his own Brethren, (whom he wandringly in the ſimpli<g ref="char:EOLhyphen"/>city of his heart, ſought, that he might comfort) conſulted as ſoon as they had got him amongſt them, to kill him.</p>
+            <p>The man or Angel, (whether it was, I ſhall not diſpute) told <hi>Joſeph</hi> that he ſhould find his Brethren in <hi>Dothan,</hi> verſ. 17. He found it true indeed, to his ſorrow: <hi>Dothan,</hi> i. e. <hi>defectio,</hi> falling away; they fell
+<pb n="5" facs="tcp:185036:5"/>
+away from their love to him, as to their Brother; from their duty to him as to their King, for they ſaid, <hi>Let us kill him.</hi>
+            </p>
+            <p>They in the parable, ſeeing the heir, ſaid, <hi>Let us kill him, and the inheritance ſhall be ours:</hi> Theſe men are not far ſhort of it: <hi>Let us kill him, and ſee what will become of his dreams,</hi> verſ. 20. ſo ſhall not he rule, but we ſhall keep the dominion to our ſelves, and then what will become of his dreams?</p>
+            <p>Yea, as a ſigne of their malitious hearts, their tongues ſpare no reviling or ſcorn; <hi>This Dreamer:</hi> They might have called him their Brother, accor<g ref="char:EOLhyphen"/>ding to nature; their Ruler, according to Gods in<g ref="char:EOLhyphen"/>ſtitution: but froward hearts, appeared in froward language; <hi>This Dreamer:</hi> Did they not here fight againſt God? if <hi>Joſeph</hi> dreamt, it was of God: did he dream they ſhould all bow unto him? if it were of man, they need not ſo fear that it would come to paſs, as to uſe this wicked means to prevent it: if of God, they were ſadly given over thus to fight againſt God.</p>
+            <p>As their malice roſe high, ſo it became univerſal, and ſo bold, as to propound this murther, even in a whole Council. 'Tis not one or two ſneaking Tray<g ref="char:EOLhyphen"/>tors in a Corner; but as if the miſchief were plotted even before it was propounded, they feared no op<g ref="char:EOLhyphen"/>poſition; they do not make it a Queſtion to be put to the Vote, <hi>Shall we?</hi> but preſently determine, <hi>Let us kill him.</hi>
+            </p>
+            <p>
+               <hi>Adeo horribilia Monstra exiſtunt:</hi> What ſtrange <note place="margin">Luther in loc.</note> Monſters are here found in <hi>Jacobs</hi> Family? not ene<g ref="char:EOLhyphen"/>mies or ſtrangers, but ſons and Brethren conſpire
+<pb n="6" facs="tcp:185036:6"/>
+the murther of their Brother <hi>Joſeph,</hi> whom their Father loved beſt: VVhy thus? but becauſe God had appointed, that not a Tyrant, or a Stranger, but one of their own Brethren ſhould rule over them; and ſo they roſe againſt their own happineſs.</p>
+            <p>But let theſe alone a while: they were not ſo wicked as they would have been: they conſpired, but Gods Goodneſs and Providence prevented, that they did not kill their Ruler and their Brother.</p>
+            <p>Another Party is not for murther, but for baniſh<g ref="char:EOLhyphen"/>ment<hi>: Verſ.</hi> 26, 27. <hi>And Judah ſaid unto his bre<g ref="char:EOLhyphen"/>thren, What profit is it if we ſlay our brother, and conceal his blood?</hi> Verſ. 27. <hi>Come, and let us ſell him to the Iſhmaelites, and let not our hand be upon him, for he is our brother, and our fleſh: and his brethren were con<g ref="char:EOLhyphen"/>tent.</hi>
+            </p>
+            <p>This is <hi>Judahs</hi> counſel, a little more moderate, and truly but a little, in that 'tis an hard choice, ei<g ref="char:EOLhyphen"/>ther to be kill'd, or to be forc'd into a forreign Country, amongſt Strangers, without Friends, main<g ref="char:EOLhyphen"/>tenance, to live upon the benevolence of men of a contrary Religon: yea, it is a great aggravation, that <hi>Joſeph</hi> ſhould ſuffer this; The beloved of his Fa<g ref="char:EOLhyphen"/>ther, that had been tenderly brought up, yea, and had dominion and rule more then in his view; for him to be thus baffled from all, and caſt into ſo ſad a condition, and that by his own then Brethren, and future Subjects; tell me whether Ages do often pa<g ref="char:EOLhyphen"/>rallel this Example?</p>
+            <p>His other Brethren would have taken away his natural life by killing him<hi>: Judah</hi> juggles him into a far Countrey, and ſo deprives him of his civil life:
+<pb n="7" facs="tcp:185036:6"/>
+but obſerve the ground of <hi>Judah's</hi> advice, <hi>v.</hi> 26. <hi>What profit is it if we ſlay him?</hi> this was the main wheele which ſet all on motion: <hi>What ſhall we get by it?</hi> if they had gone on in blood, they would have been but a ſcandal and ſcorn to other Nations; it would have been a burden to the Conſcience, and all to no purpoſe: If get by it, then let Nations be offen<g ref="char:EOLhyphen"/>ded, Religion blemiſhed, Conſcience wounded; there is ſomething to be got: but if nothing to be got, we'll be content with his baniſhment. Here <hi>Judah</hi> ſellet<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Joſeph,</hi> and <hi>Judas Iſcariot</hi> ſold Chriſt; their names were alike, and ſo was their fact: ſaith this <hi>Judah, What profit?</hi> and ſaith <hi>Iſcariot, Quid dabi<g ref="char:EOLhyphen"/>tis? What will you give? Auri ſacra fames?</hi> to what black deſignes will not profit hale man unto?</p>
+            <p>
+               <hi>Joſeph</hi> then is ſold by <hi>Judah</hi>'s advice, but <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ot with<g ref="char:EOLhyphen"/>out the Providence of God, who knew that it would be ſafer for <hi>Joſeph,</hi> and more conducible to the bringing him to the honor God determined for him, that he ſhould be among ſtrangers, yea, Egyptians, then at home amongſt his own Brethren or Subjects in his own Country. It were to be wiſht (however <hi>Judah</hi> was here carryed to this ſeeming moderati<g ref="char:EOLhyphen"/>on) that all guilty of the ſin, would take notice of the Doctrine; <hi>What profit is it if we ſlay our brother?</hi>
+            </p>
+            <p>Let me propound the Apoſtles Queſtion to ſuch guilty Conſciences, <hi>What fruit have ye of thoſe things whereof ye are now aſhamed? the end is death.</hi>
+            </p>
+            <p>Doth not <hi>Judah</hi> condemn himſelf, whilſt he be<g ref="char:EOLhyphen"/>trays his brother? <hi>Let not our hand be upon him; he is our brother and our fleſh.</hi>
+            </p>
+            <p>If it be ſo unnatural for one hand to wound the
+<pb n="8" facs="tcp:185036:7"/>
+other, becauſe the ſame fleſh; the danger is grea<g ref="char:EOLhyphen"/>ter, and the unkindneſs more unpardonable, which ſtrikes at the head, that Treaſury of all helps con<g ref="char:EOLhyphen"/>ducible to the Government and Comfort of man. But 'tis mortal, without a miracle, &amp; extraordinary Providence, to ſever the Head from the Body, to ſend it to one Country whilſt the Body continues in another: and this was the caſe of <hi>Joſeph.</hi>
+            </p>
+            <p>Men may undergo baniſhment from a threefold occaſion:</p>
+            <p>Firſt, the Malefactor is baniſht by the juſt ſen<g ref="char:EOLhyphen"/>tence of the Law paſſing upon him, by the Autho<g ref="char:EOLhyphen"/>rity of a lawful Magiſtrate. This was not <hi>Joſephs</hi> condition; himſelf being their appointed Lord, no Malefactor: they his Subjects, no competent Judges.</p>
+            <p>Secondly, when a man is treacherouſly betrayed, and for filthy lucre, or any other ſiniſter end, bought and ſold to be tranſported into another Na<g ref="char:EOLhyphen"/>tion, and ſo with the loſs of his freedom, to become little better then a bondman, in a forreign Coun<g ref="char:EOLhyphen"/>try. Or,</p>
+            <p>Thirdly, when (according to the Proverb) his own Country is made too hot for him<hi>:</hi> ſuch Con<g ref="char:EOLhyphen"/>ſpiracies are hatcht, ſuch unkindneſſes multiplyed, and dangers threatned, that without apparent ha<g ref="char:EOLhyphen"/>zard, there is no abode for him in his native ſoile, but he muſt ſeek ſafety abroad, though with never ſo great a loſs.</p>
+            <p>
+               <hi>Joſeph</hi> felt the burden of both theſe baniſhments: he was traiterouſly chaffer'd away into <hi>Egypt,</hi> yea, with ſuch prevalency of malice, that his Brethren
+<pb n="9" facs="tcp:185036:7"/>
+would rather have given money with him, then not to have been rid of him; and ſo many injuries, af<g ref="char:EOLhyphen"/>fronts, threatnings, dayly aſſaulted him, that, take him out of the pit, where they had put him, and ſurely he would (without their ſelling) having an opportunity of eſcape, be any where, rather in <hi>E<g ref="char:EOLhyphen"/>gypt,</hi> then amongſt his own Brethren.</p>
+            <p>Thus was <hi>Joſeph</hi> baniſhed by his own brethren. <note place="margin">P. <hi>Mart. in loc.</hi>
+               </note>
+            </p>
+            <p>I read that <hi>Adrian</hi> the Emperour, called before him ten Grandees, Rabbies of great note amongſt the Jews, and ask'd them what the puniſhment in their Law was, for them who ſhould betray or de<g ref="char:EOLhyphen"/>prive an innocent perſon of his liberty, contriving him into Thraldom, Death, or Baniſhment: They anſwer him, That ſuch a ſin was capital, <hi>(i. e.)</hi> to be puniſhed with death. The Emperour commanded theſe ten to be preſently executed. <hi>Inſimulans quod hujus Criminis tenerentur,</hi> accuſing them as guilty of this crime. He inſiſted in no particular; which gave men occaſion diverſly to interpret the mean<g ref="char:EOLhyphen"/>ing: The Chriſtians alluded to Chriſt, whom the Nation of the Jews had thus wickedly handled: But the Jews, not willing that Chriſts Innocency ſhould be ſo cleared, and their cruelty ſo revenged, confeſt, That this was a judgement of God upon them, for their unnatural dealing with <hi>Joſeph: Et ne abſurda videantur dicere,</hi> that they might give ſome countenance to this evaſion, they fell into as groſs an Abſurdity, <hi>Poſt tot tempora animas decem fratrum</hi> Joſephi <hi>migraſſe in iſtos decem Rabinos, &amp; ideo ſic illos eſſe punitos:</hi> after ſo long time, the ſouls of thoſe ten Brethren of <hi>Joſeph,</hi> paſſed into the bodies of theſe ten
+<pb n="10" facs="tcp:185036:8"/>
+Rabbies, and therefore they were thus puniſhed.</p>
+            <p>Let the Story be what it will, the Moral is eaſiy, true, and will be certain. God is the Protector of the Innocent, and ſooner or later will viſit for the afflictions of <hi>Joſeph.</hi>
+            </p>
+            <p>I muſt add a little of a third Party intereſted in this great buſineſs. We have heard of them who were for Deſtruction, <hi>Let us kill him:</hi> and of thoſe who were for Baniſhment, and prevail'd. The third is a ſober more conſcientious and ingenuous party, fearing God, who endeavoured his preſervation and deliverance: This Party ſee <hi>Gen.</hi> 37. 21, 22, 29, 30. <hi>And Reuben heard it, and he delivered him out of their hands, and ſaid, Let us not kill him. And Reuben ſaid unto them, Shed no blood, but caſt him into this pit that is in the wilderneſs, and lay no hand upon him; that he might rid him out of their hands, to deliver him to his father a<g ref="char:EOLhyphen"/>gain:</hi> Verſ. 29, 30. <hi>And Reuben returned unto the pit, and behold, Joſeph was not in the pit: and he rent his cloaths. And he returned to his brethren, and ſaid, The Child is not; and I, whither ſhall I go?</hi>
+            </p>
+            <p>There is no Time ſo bad, or Age ſo cruel, but ſome are to be found to appear in a righteous <hi>Cauſe,</hi> oppoſing (as much as in them lies) the violence and injuſtice of others: <hi>Let us kill him,</hi> ſay they: <hi>Shed no blood,</hi> ſaith <hi>Reuben;</hi> who though he prevailed not in the particular he endeavoured, yet it ſtopt the mad<g ref="char:EOLhyphen"/>neſs of the Reſt, and was (under God) the means that <hi>Joſeph</hi> was preſerved.</p>
+            <p>Diviſion is in it ſelf a bitter and poyſonous root; yet Gods Wiſdom makes it phyſical, for the preſer<g ref="char:EOLhyphen"/>vation of his ſervants. If <hi>Reuben</hi> had not diſſented,
+<pb n="11" facs="tcp:185036:8"/>
+what could have become of <hi>Joſeph?</hi> 'Tis the way to Deſtruction, yet ſometimes the Method of Gods Providence makes uſe of it to preſervation. How far would the Sons of <hi>Adam</hi> have gone on in their <note place="margin">
+                  <hi>Gen.</hi> 11.</note> wicked Attempts, if God had not confounded their Language? How ſhould St. <hi>Paul</hi> have eſcaped the <note place="margin">
+                  <hi>Act.</hi> 23.</note> hands of his Perſecutors, if there had not aroſe a diſſention between the Phariſees and Sadduces, and the Multitude divided?</p>
+            <p>The Church of God hath been the ſafer, when the ſtorm raiſed againſt it, increaſed the higher. Many Errours ſtriving againſt the truth, hath been the ſecurity of the truth, which would have fallen under the danger of a ſingle Error. We have ſeen the experience in our days, and we hope to finde the comfortable conſequence, and iſſue of it.</p>
+            <p>Methinks I hear ſome object, That this Party <note place="margin">Object.</note> was a looſe Party: had <hi>Joſeph</hi> no better Abettors then <hi>Reuben,</hi> to appear on his behalf? If the Cauſe be like the Patron, we could finde ſo much to lay to his charge, as would much diſgrace the Cauſe. <hi>And this is not the laſt time that loyalty hath been blemiſht with looſneſs (which is but a weak diſguiſe for Rebellion.)</hi>
+            </p>
+            <p>But yet, that we may not be too cenſorious, we muſt as well take notice of his natural Piety, as of his carnal Impiety; let his loyalty to his Brother, plead ſome excuſe for his diſloyalty to his Father. However (if we muſt enter into compariſon) their Unnatural Cruelty will look as black as his Carnal Uncleanneſs. However, <hi>Joſeph</hi>'s Enemies have no great Cauſe to ſtand upon their own Integrity, or cenſure <hi>Reuben</hi>'s Folly, when deep diſſimulation
+<pb n="12" facs="tcp:185036:9"/>
+ſhall cloath their cruelty with hypocriſie: we finde <hi>verſ.</hi> 35. <hi>All his ſons and daughters roſe up to comfort</hi> mournful <hi>Jacob,</hi> for his abſent <hi>Joſeph;</hi> feignedly to comfort him, for the ſorrow they had wilfully brought upon him; but he refuſed to be comforted. The wound was too great to be healed with a few good words, and plauſible Declarations; they could not cheat the old man into an approbation of their cruelty, ſince themſelves had brought upon him that ſorrow which they endeavoured to daub over with the untempered mortar of their hypocriſie.</p>
+            <p>'Tis probable, that if <hi>all</hi> his Sons, then <hi>Reuben</hi> was in the Company; but a true Mourner, amongſt many Diſſemblers.</p>
+            <p>Thus theſe great men have brought all into a Confuſion: their Father in mourning; <hi>Reuben</hi> in <note place="margin">
+                  <hi>Verſ.</hi> 30.</note> diſtraction what to do, or whither to go; <hi>Joſeph</hi> is in <hi>Egypt,</hi> and themſelves driven to ſhifts and ſtreights, to bear up againſt the deſolation they had brought upon themſelves and their Country.</p>
+            <p>Having thus ſeen fooliſh men oppoſing, let us conſider Gods truth and wiſdom, carrying on his own purpoſe, notwithſtanding the counter-working of all his Enemies. Their Scorn proved a true Prophecie: <hi>Shalt thou indeed?</hi> Yea indeed; He ſhall reign over them.</p>
+            <p>What GOD determines, Man cannot hinder.</p>
+            <p>Chriſt will protect his Church, and the gates of Hell ſhall not prevail againſt it. God hath ſaid, <hi>Da<g ref="char:EOLhyphen"/>vid ſhall be King of Iſrael: Saul</hi> muſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs up his Ar<g ref="char:EOLhyphen"/>mies, conſults with his Allies; layes ſnares in eve<g ref="char:EOLhyphen"/>ry corner to intrap <hi>David:</hi> and by the treachery and
+<pb n="13" facs="tcp:185036:9"/>
+help of <hi>Doeg,</hi> murthered all the Prieſts of the Lord, who wiſhed proſperity to <hi>David.</hi>
+            </p>
+            <p>All theſe plots and cruelties could not long keep the Scepter out of <hi>Davids</hi> hands; <hi>Saul</hi> was killed, and <hi>David</hi> when he was thirty years old began to <note place="margin">2 <hi>Sam.</hi> 5. 4.</note> reign, and reigned forty years over <hi>Iſrael.</hi> So let thine enemies periſh O Lord; and ſo let the Crown be ſetled, flouriſh and continue upon the head of thine Anointed.</p>
+            <p>We have in this Tranſaction ſeen much of Man, but more of God. Man will not have <hi>Joſeph</hi> to reign over them; but God hath appointed it ſhould be ſo; and after, and againſt all mens devices, it was ſo.</p>
+            <p>But ſo remarkable are the ſteps of Divine Provi<g ref="char:EOLhyphen"/>dence, not onely in carrying on this great work, but in ſetling <hi>Joſeph</hi> in his power, that he is blind in<g ref="char:EOLhyphen"/>deed, who ſees it not to be the work of the Lord, and in whoſe eyes 'tis not miraculous. His Bre<g ref="char:EOLhyphen"/>thren force <hi>Joſeph</hi> into Baniſhment, they live to ſee him reign over them; they out-live their own ſhame, beholding <hi>Joſeph</hi>'s glory, and yet to their unſpeaka<g ref="char:EOLhyphen"/>ble advantage: What would have become of them, if their plots had taken? who ſhould have nouriſh<g ref="char:EOLhyphen"/>ed them, their Wives, their little ones, in the Fa<g ref="char:EOLhyphen"/>mine, if their fury had been executed, their deſigns proſpered, and they killed <hi>Joſeph?</hi> We may well ſay what <hi>Joſeph</hi> to them, <hi>Ye thought evil againſt me, but God meant it unto good, to bring to paſs as 'tis this day, to ſave much people alive:</hi> The Evil was of Man, both actually and intentionally; but the wiſdom of God turned it to a real Good, both to them who contri<g ref="char:EOLhyphen"/>ved the Evil, and alſo to the benefit of the whole Country.</p>
+            <p>
+               <pb n="14" facs="tcp:185036:10"/>
+Thus we have ſeen their parting: ſad for <hi>Jo<g ref="char:EOLhyphen"/>ſeph,</hi> if God had not miraculouſly preſerved him in a ſtrange Country, and given him favour and ac<g ref="char:EOLhyphen"/>ceptation amongſt ſtrangers, and they of a ſtrange Religion, making his wiſdom, Piety, and Patience the more famous by his ſufferings: But more ſad for his Brethren, becauſe ſinful, if God had not ſpar'd them to return to their Loyalty; ſo to make ſome amends for their former Impiety.</p>
+            <p>Let us now behold their meeting, after many ſtorms and troubles: and we ſhall find that to be as full of ſubmiſſion, peace and comfort; as was their parting, of ſcorn, diſloyalty and treachery.</p>
+            <p>
+               <hi>Vide</hi> Chapter 50. 18-19. <hi>And his Brethren alſo went, and fell down before his face, and they ſaid, Be<g ref="char:EOLhyphen"/>hold, we be thy ſervants. And Joſeph ſaid unto them, Fear not: for am I in the place of God?</hi>
+            </p>
+            <p>We were thy Brethren; but Gods Providence hath exalted thee now above us: by our wicked<g ref="char:EOLhyphen"/>neſs we have forfeited that Relation: therefore they <hi>fell down before his face;</hi> that was an acknowledge<g ref="char:EOLhyphen"/>ment of his Soveraignty: <hi>Behold, we be tby ſervants;</hi> and this was the profeſſion of their Loyalty.</p>
+            <p>But withal, obſerve <hi>Joſephs</hi> gracious, but moſt ſeaſonable Reply, <hi>Fear not: for am I in the place of God?</hi> What wrong ſoever was done to his own Perſon, he was moſt ready to pardon; yea, ſo to pardon, that he would have them baniſh all fear: Nothing of harm, danger, or revenge, ſhould pro<g ref="char:EOLhyphen"/>ceed from him (how juſtly ſoever he might) to them. He ſo freely forgave, as that he would have no cauſe to remain, no not of fear. But he could pardon no
+<pb n="15" facs="tcp:185036:10"/>
+further then a King can pardon rebellious Subjects: for wherein they had violated the Law of GOD, broken the Rule of Obedience and Charity, groun<g ref="char:EOLhyphen"/>ded on that Law; <hi>Am I in the place of God?</hi> Such ſins, and ſo far as they are done againſt God, there muſt be for them, Repentance, humbling them<g ref="char:EOLhyphen"/>ſelves, and begging pardon of God.</p>
+            <p>Thus have I briefly preſented unto you, three ve<g ref="char:EOLhyphen"/>ry remarkable Examples. The one ſets forth unto us the violence of Mans Nature, when 'tis blinded with Malice, Covetouſneſs, or Ambition.</p>
+            <p>The other is a clear inſtance of Gods providence; firſt, infatuating the counſels of the wicked, by di<g ref="char:EOLhyphen"/>viding their counſels; and ſecondly, miraculouſly bringing his own Determinations to paſs, againſt all oppoſition; not onely to the amazement, but alſo to the benefit of all, who will not continue willfully blind and obſtinate.</p>
+            <p>The other is a Gracious Lord, and a kind Bro<g ref="char:EOLhyphen"/>ther, pardoning the rebellions of his Subjects, and unkindneſs of his Brethren, when indeed he had advantage over them, and power in his hands, to have been ſufficiently revenged on them.</p>
+            <p>There is nothing in this Hiſtory, but was per<g ref="char:EOLhyphen"/>fectly performed, partly in <hi>Canaan,</hi> partly in <hi>Egypt,</hi> above three thouſand years ſince. If Antiquity makes the weaker impreſſion hereof, upon our ſpi<g ref="char:EOLhyphen"/>rits, I leave you to draw down the Story to a Mo<g ref="char:EOLhyphen"/>dern Application: Change but one Name, and we have ſeen with our Eyes, and heard with our Ears, more lively acted what our Fathers have declared unto us<hi>:</hi> God give Grace, even to the beſt of us, to
+<pb n="16" facs="tcp:185036:11"/>
+repent of our miſ-doings: to be truly thankful to God for his miraculous Providence. Let <hi>Reuben</hi> rejoyce: for what he could not do, the Lord hath put to his Hand, and hath effected it; and <hi>Joſeph</hi> is ſafe. Let <hi>Judah</hi> be glad: not that he was ſo wick<g ref="char:EOLhyphen"/>ed to baniſh <hi>Joſeph,</hi> but that God was ſo gracious to turn his evil Deſignes to ſo happy a Succeſs, and bleſſed an End. Let the Brethren who conſpired together to ſlay him, repent; if God peradventure will forgive the wicked thoughts of their hearts.</p>
+            <p>Let us all lift up our fainting Spirits, and let the News have the ſame operation with us, as it had with old <hi>Jacob,</hi> Gen. 45. 28. <hi>The ſpirit of Jacob their Father revived: And Iſrael ſaid, It is enough; Joſeph my ſon is yet alive: I will go and ſee him before I die.</hi> The Oyl was waſted, and the Lamp was even ex<g ref="char:EOLhyphen"/>tinct: Gods Comforts are moſt ſeaſonable: <hi>Ja<g ref="char:EOLhyphen"/>cob</hi>'s heart fainted, the Oyl of gladneſs is here pour<g ref="char:EOLhyphen"/>ed in, and our hearts alſo are revived. It is e<g ref="char:EOLhyphen"/>nough; what would we now more? Our <hi>Joſeph</hi> is alive, we have clear evidences of it; God grant we may ſee him before we die.</p>
+            <p>After all theſe diſtempers, when <hi>Reuben</hi> had act<g ref="char:EOLhyphen"/>ed againſt <hi>Judah;</hi> and the reſt of the brethren a<g ref="char:EOLhyphen"/>gainſt both: They ſettle, live in love; pardoning each other; flouriſh under <hi>Joſeph</hi>'s Authority, who forgave them all. And ſo, as a ſignal of Gods fa<g ref="char:EOLhyphen"/>vour and being reconciled unto them, they (all toge<g ref="char:EOLhyphen"/>ther) became the Twelve famous Patriarchs, and Planters of Religion in the whole world. If we may hold Parallel in this, as in the former particulars, we may ſay, <hi>'Tis good for us that we have been afflicted.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:185036:11" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
